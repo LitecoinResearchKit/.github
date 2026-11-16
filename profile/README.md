@@ -1,5 +1,3 @@
-<img src="logo.png" alt="Litecoin Research Kit" width="96" align="right" />
-
 # Litecoin Research Kit
 
 Tools to extract, explore and analyze the data stored in your Litecoin node,
